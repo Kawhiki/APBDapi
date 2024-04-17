@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kawie\\RiderProjects\\APBDAPI\\APBDAPI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\APBDAPI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\APBDAPI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kawie\\RiderProjects\\APBDAPI\\APBDAPI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\kawie\\RiderProjects\\APBDAPI\\APBDAPI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kawie\\RiderProjects\\APBDAPI\\APBDAPI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kawie\\RiderProjects\\APBDAPI\\APBDAPI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.APBDAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.APBDAPI.props",
+      "PackagePath": "build\\APBDAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.APBDAPI.props",
+      "PackagePath": "buildMultiTargeting\\APBDAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.APBDAPI.props",
+      "PackagePath": "buildTransitive\\APBDAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
